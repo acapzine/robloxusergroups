@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "group": {
+        "id": 4111519,
+        "name": "Roblox Presents",
+        "description": "",
+        "owner": {
+          "hasVerifiedBadge": true,
+          "userId": 341206540,
+          "username": "chewbeccca",
+          "displayName": "chewbeccca"
+        },
+        "shout": null,
+        "memberCount": 110,
+        "isBuildersClubOnly": false,
+        "publicEntryAllowed": false,
+        "hasVerifiedBadge": true
+      },
+      "role": {
+        "id": 106072807,
+        "name": "Roblox",
+        "rank": 252
+      }
+    },
+    {
+      "group": {
+        "id": 7384468,
+        "name": "Roblox Arena Events",
+        "description": "",
+        "owner": {
+          "hasVerifiedBadge": false,
+          "userId": 1861517257,
+          "username": "RobloxArenaEvents",
+          "displayName": "RobloxArenaEvents"
+        },
+        "shout": null,
+        "memberCount": 989,
+        "isBuildersClubOnly": false,
+        "publicEntryAllowed": false,
+        "hasVerifiedBadge": false
+      },
+      "role": {
+        "id": 46417776,
+        "name": "Member",
+        "rank": 1
+      }
+    },
+    {
+      "group": {
+        "id": 127081,
+        "name": "Roblox Wiki",
+        "description": "Roblox Wiki: http://wiki.roblox.com/ =================================\nThe official Roblox Wiki group. The purpose of this group is: 1) Normal users to give the wiki staff ideas and suggestions. 2) The wiki staff to collaborate in a more organized and efficient manner. Wiki applications are always open. The application can be found here: http://polls.roblox.com/roblox-wiki-writer-application\nPlease join if you are a wiki supporter and would like to share your ideas to the people actually who write the wiki.",
+        "owner": {
+          "hasVerifiedBadge": false,
+          "userId": 6783205,
+          "username": "UristMcSparks",
+          "displayName": "UristMcSparks"
+        },
+        "shout": null,
+        "memberCount": 2668608,
+        "isBuildersClubOnly": false,
+        "publicEntryAllowed": true,
+        "hasVerifiedBadge": false
+      },
+      "role": {
+        "id": 676373,
+        "name": "Wiki System Operator",
+        "rank": 254
+      }
+    }
+  ]
+}
